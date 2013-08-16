@@ -1,0 +1,6 @@
+Team Number | Team Name | Team Location
+3550 | Beta | West Des Moines, IA, USA
+458 | Activate Go Initiative! | Mount Vernon, IA, USA
+3549 | "N/A" | Mount Vernon, IA, USA
+5466 | Combustible Lemons | Davenport, IA, USA
+
