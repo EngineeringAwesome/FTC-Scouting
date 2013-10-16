@@ -19,7 +19,7 @@ include("includes/mysql_connection.php");
 	
 	<div id="content">
     	<p> This website is under construction, and will contain scouting data for teams in Iowa in the near future </p>
-        <a href="upload.php">Upload information</a>
+        <a href="upload.html">Upload information</a>
 	</div>
     
 	<div id="footer">
@@ -27,3 +27,4 @@ include("includes/mysql_connection.php");
 	
 	</body>
 </html>
+
